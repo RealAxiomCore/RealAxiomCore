@@ -69,7 +69,6 @@ Areas of practical experience include:
 
 This background is the foundation behind the product I am developing.
 
-    </td>
   </tr>
 </table>
 
