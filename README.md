@@ -118,7 +118,7 @@ It is a profile centered on building a digital solution for the construction ind
 </p>
 
 <p align="center">
-  Turning real construction problems into useful software.
+  Turning real problems into useful software.
 </p>
 
 <p align="center">
